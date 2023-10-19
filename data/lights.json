@@ -1,0 +1,12 @@
+{
+    "lights":[
+        {"id": 1,"colorName": "orange", "colorHex": "#7149C6", "on": 0},
+        {"id": 2,"colorName": "purple", "colorHex": "#7149C6", "on": 0},
+        {"id": 3,"colorName": "red", "colorHex": "#FC2947", "on": 0},
+        {"id": 4,"colorName": "cyan", "colorHex": "#00ffff", "on": 0},
+        {"id": 5,"colorName": "yellow", "colorHex": "FFCD38", "on": 0},
+        {"id": 6,"colorName": "green", "colorHex": "#28FFBF", "on": 0},
+        {"id": 7,"colorName": "pink", "colorHex": "#FF008E", "on": 0},
+        {"id": 8,"colorName": "blue", "colorHex": "#0F00FF", "on": 0}
+    ]
+}
